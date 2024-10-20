@@ -18,25 +18,15 @@ What good would it be to not make mistakes? The important thing is to learn from
 ## Abstract 
 The ShimCache is a component of the Microsoft Windows Application Compatibility Infrastructure, introduced to address compatibility issues and to ensure that legacy programs remain functional with new releases of the Windows operating system (Understanding Shims, 2012). 
 
-The shim acts as a proxy between outdated applications and the operating system, replacing incompatible code with updated or alternative code through a process known as shimming ("Shimcache: InfoSec Notes," n.d.). 
+The shim acts as a proxy between outdated applications and the operating system, replacing incompatible code with updated or alternative code through a process known as shimming ("Shimcache: InfoSec Notes," n.d.). Files that have recently been shimmed are recorded in the ShimCache, which contains metadata of interest to investigators, such as the full file path, size, and last modified date (Parisi, 2015). 
 
-Files that have recently been shimmed are recorded in the ShimCache, which contains metadata of interest to investigators, such as the full file path, size, and last modified date (Parisi, 2015). 
-
-In Windows XP and Windows Server 2003, the presence of a file in the shimcache could reliably indicate that the file had been executed. From Windows Vista through Windows 8.1, likely execution was indicated by the insert flag being set to the value 2. 
-
-However, starting with Windows Vista, files were also added to the ShimCache when they were displayed while interactively browsing a directory, not just when they were executed (Davis, 2012). 
+In Windows XP and Windows Server 2003, the presence of a file in the shimcache could reliably indicate that the file had been executed. From Windows Vista through Windows 8.1, likely execution was indicated by the insert flag being set to the value 2. However, starting with Windows Vista, files were also added to the ShimCache when they were displayed while interactively browsing a directory, not just when they were executed (Davis, 2012). 
 
 In Windows 10 and later versions, the insert flag was removed and replaced with an execution flag, which is the last 4 bytes of the cache entry. If this flag is set to 1, it may indicate that the file was executed, although this is not definitive (Peterson, 2024).
 
-Complicating the analysis further is the shift to writing cache data only during system shutdown or reboot (Davis, 2012). 
+Complicating the analysis further is the shift to writing cache data only during system shutdown or reboot (Davis, 2012). This change has made it more challenging for investigators, especially those without specialised tools such as the Volatility plugin “shimcachemem,” which are needed to examine the cache while it is still in memory ("Shimcache: InfoSec Notes," n.d.). Additionally, the shimming process can be exploited by adversaries using techniques like living off the land (LOTL) to establish persistence, inject DLLs, and perform other malicious actions (MITRE ATT&CK, 2020).
 
-This change has made it more challenging for investigators, especially those without specialised tools such as the Volatility plugin “shimcachemem,” which are needed to examine the cache while it is still in memory ("Shimcache: InfoSec Notes," n.d.). 
-
-Additionally, the shimming process can be exploited by adversaries using techniques like living off the land (LOTL) to establish persistence, inject DLLs, and perform other malicious actions (MITRE ATT&CK, 2020).
-
-Overall, the complexity and variability of analysing the shimcache, arising from the numerous Windows versions each with unique behaviours, lack of detailed internal documentation, finite size, and data rolling of the shimcache, complicate reliable analysis. 
-
-Although the ShimCache can reliably indicate that a file was present on the system, confidently determining whether the file was executed requires ongoing research and testing. 
+Overall, the complexity and variability of analysing the shimcache, arising from the numerous Windows versions each with unique behaviours, lack of detailed internal documentation, finite size, and data rolling of the shimcache, complicate reliable analysis. Although the ShimCache can reliably indicate that a file was present on the system, confidently determining whether the file was executed requires ongoing research and testing. 
 
 ## Introduction
 The Microsoft Windows Application Compatibility Infrastructure, also known as the Shim Infrastructure, was introduced in Windows XP (Parisi, 2015) to address compatibility issues with older programs to ensure they remain functional with new releases of the Microsoft operating system. This system acts as a proxy layer between these outdated applications and the new OS (Rocha, 2016). It identifies compatibility issues and resolves them through a process known as shimming. 
