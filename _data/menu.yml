@@ -4,7 +4,7 @@
 entries:
   - title: me
     entries:
-      - title: <a href='lucasly@protonmail.com'>email</a>
+      - title: <a href='mailto: lucasly@protonmail.com'>email</a>
       - title: <a href='https://github.com/llucasly'>github</a>
 
   - title: posts
