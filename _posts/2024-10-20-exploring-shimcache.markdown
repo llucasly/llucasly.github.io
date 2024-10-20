@@ -51,7 +51,7 @@ To determine if an application requires shimming, the Shim Engine will query the
 #### Windows XP 32-bit 
 In Windows XP 32-bit editions, the shimcache is stored in the registry path:
 
-'HKLM\SYSTEM\CurrentControlSet\Control\SessionManager\AppCompatibility\AppCompatCache'
+> HKLM\SYSTEM\CurrentControlSet\Control\SessionManager\AppCompatibility\AppCompatCache
 
 The cache contains at most 96 entries, each 552-bytes in size. Entries are added to the cache when an “existing file's metadata has changed and re-executed, or a new file is executed”. The cache has a 400-byte header that must begin with the magic value 0xDEADBEEF and contains the number of shim entries and indexes (Davis, 2012). 
 
@@ -62,7 +62,7 @@ Additional attributes in the Windows XP 32-bit ShimCache entry include the file 
 H4 Windows XP 64-bit and Windows Server 2003 
 The Shim Infrastructure, particularly the method of storing entries, underwent significant changes from Windows XP 32-bit to the 64-bit editions and Windows Server 2003. One major change was the transition of the Shim engine from user mode to kernel mode. As a result, ShimCache entries were now read from kernel memory during system startup and written to the registry during shutdown or reboot (Davis, 2012). The registry path where these entries are stored, including in future versions of Windows, is:
 
-'HKLM\SYSTEM\CurrentControlSet\Control\SessionManager\AppCompatCache\AppCompatCache'
+> HKLM\SYSTEM\CurrentControlSet\Control\SessionManager\AppCompatCache\AppCompatCache
 
 The cache can contain up to 512 entries, with entries being either 24 bytes on 32-bit systems or 32 bytes on 64-bit systems (Davis, 2012). Similar to 32-bit versions of Windows XP, entries are created when the file's metadata changes and the file is re-executed, a new file is executed, or when the file path changes, and the file is executed
 
