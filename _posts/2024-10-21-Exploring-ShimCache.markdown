@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring ShimCache: A Literature Review Across Windows Versions"
-date:   2024-10-21 10:10:00 +1100
+date:   2024-10-21 10:13:00 +1000
 categories: Digital Forensics
 ---
 ## Preface
