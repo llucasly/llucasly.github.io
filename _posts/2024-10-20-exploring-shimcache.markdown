@@ -65,7 +65,7 @@ The entries include the full file path of the executed file, encompassing UNC pa
 
 Additional attributes in the Windows XP 32-bit ShimCache entry include the file size and the "last update" time. The "last update" time may indicate the last time the file was executed, as this attribute is updated during execution. Unlike the "last modified" timestamp, which reflects changes to the file's contents, the "last update" time focuses on whether the file has been executed, regardless of whether its contents were altered (Tuominen, 2023).
 
-H4 Windows XP 64-bit and Windows Server 2003 
+#### Windows XP 64-bit and Windows Server 2003 
 The Shim Infrastructure, particularly the method of storing entries, underwent significant changes from Windows XP 32-bit to the 64-bit editions and Windows Server 2003. One major change was the transition of the Shim engine from user mode to kernel mode. As a result, ShimCache entries were now read from kernel memory during system startup and written to the registry during shutdown or reboot (Davis, 2012). The registry path where these entries are stored, including in future versions of Windows, is:
 
 > HKLM\SYSTEM\CurrentControlSet\Control\SessionManager\AppCompatCache\AppCompatCache
