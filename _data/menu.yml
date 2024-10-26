@@ -16,6 +16,7 @@ entries:
 
   - title: reading list
     post_list:
+      category: reading
       limit: 5
       show_more: true
       show_more_text: See archive...
