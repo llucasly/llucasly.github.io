@@ -15,4 +15,4 @@ entries:
       show_more_url: archive.html
 
   - title: reading list
-    url: "reading list.md"
+    url: "reading list"
