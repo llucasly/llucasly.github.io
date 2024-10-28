@@ -9,4 +9,3 @@ Heavily inspired by [Susan Rigetti](https://www.susanrigetti.com/reading-list), 
 The goal is to read 52 books each year. Books I especially loved are marked with an astrisk (*).
 
 ### 2025 
-1. Test 2
