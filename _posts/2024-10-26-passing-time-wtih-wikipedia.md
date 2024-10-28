@@ -14,16 +14,13 @@ I encourage you to find an article to read the next time you're bored. Instead o
 Just search for a random number generator online, set it's min max to 1-500 and open the corresponding Wikpedia article. Alternatively, jump right in with this randomly generated number to get started (updates each time the page refreshes): <span id="random-number">Loading...</span>
 
 <script>
-fetch('https://www.randomnumberapi.com/api/v1.0/random?min=1&max=500&count=1')
-  .then(response => response.json())  // Parse JSON response
-  .then(data => {
-    // Assuming `data` is an array with the random number as its first element
-    document.getElementById('random-number').textContent = data[0];
-  })
-  .catch(error => {
-    document.getElementById('random-number').textContent = "Error fetching number";
-    console.error("Error:", error); // Logs the error to help with debugging
-  });
+    function generateRandomNumber() {
+        // Generate a random number between 1 and 500
+        return Math.floor(Math.random() * 500) + 1;
+    }
+
+    // Display a random number on page load
+    document.getElementById('random-number').textContent = generateRandomNumber();
 </script>
 
 I gurantee you'll learn something new-- it may not be entirely useful, but you'll pick up plenty of fun little facts along the way.
