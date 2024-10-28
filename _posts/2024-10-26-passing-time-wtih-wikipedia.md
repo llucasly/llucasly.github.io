@@ -11,7 +11,7 @@ It's a guilty pleasure of mine, a form of "productive" procrasination.
 
 I encourage you to find an article to read the next time you're bored. Instead of endless scrolling you can go down a [Wiki Rabbit Hole](https://en.wikipedia.org/wiki/Wiki_rabbit_hole). 
 
-Just search for a random number generator online, set it's min max to 1-500 and open the corresponding Wikpedia article. Alternatively, jump right in with this randomly generated number to get started (updates each time the page refreshes): <strong id="random-number">1</strong>
+Just search for a random number generator online, set it's min max to 1-500 and open the corresponding Wikpedia article. Alternatively, jump right in with this randomly generated number (updates each time the page refreshes): <strong id="random-number">1</strong>
 
 <script>
     function generateRandomNumber() {
