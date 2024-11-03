@@ -9,3 +9,4 @@ Films I especially loved are marked with an astrisk (*).
 
 ### 2025 
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
+2. [My Blueberry Nights](https://www.imdb.com/title/tt0765120/) (2007), by Wong Kar-Wai
