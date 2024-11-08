@@ -5,7 +5,7 @@ date:   2024-10-20 10:13:00 +1000
 categories: Digital Forensics
 ---
 ## Preface
-This blog is based on a report from my recent Digital Forensics unit, and it may contain grammatical and technical errors. No primary research or testing was conducted to verify the claims made. 
+This blog is based on a report from my recent Digital Forensics unit. It may contain grammatical and technical errors. No primary research or testing was conducted to verify the claims made. 
 
 As much as I would love to personally verify each claim for validity and ensure that the report is error-free, time constraints don't currently allow for that, but I may revist this in the future. 
 

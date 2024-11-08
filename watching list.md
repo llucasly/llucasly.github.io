@@ -12,3 +12,4 @@ Films I especially loved are marked with an astrisk (*).
 2. [My Blueberry Nights](https://www.imdb.com/title/tt0765120/) (2007), by Wong Kar-Wai
 3. [Lost in Translation](https://www.imdb.com/title/tt0335266/) (2003), by  Sofia Coppola
 4. [Amélie](https://www.imdb.com/title/tt0211915/) (2001), by Jean-Pierre Jeunet*
+5. [12 Angry Men](https://www.imdb.com/title/tt0050083/), by Sidney Lumet*
