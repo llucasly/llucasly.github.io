@@ -15,3 +15,5 @@ Films I especially loved are marked with an astrisk (*).
 5. [12 Angry Men](https://www.imdb.com/title/tt0050083/) (1957), by Sidney Lumet*
 6. [Your Name.](https://www.imdb.com/title/tt5311514/) (2016), by Makoto Shinkai*
 7. [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/) (2001), by Wes Anderson*
+8. [The Thing](https://www.imdb.com/title/tt0084787/) (1982), by John Carpenter
+9. [Whiplash](https://www.imdb.com/title/tt2582802/) (2014), by Damien Chazelle*
