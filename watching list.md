@@ -18,3 +18,4 @@ Films I especially loved are marked with an astrisk (*).
 8. [The Thing](https://www.imdb.com/title/tt0084787/) (1982), by John Carpenter
 9. [Whiplash](https://www.imdb.com/title/tt2582802/) (2014), by Damien Chazelle*
 10. [Poor Things](https://www.imdb.com/title/tt14230458/) (2023), by Yorgos Lanthimos
+11. [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/) (1994), by Frank Darabont*
