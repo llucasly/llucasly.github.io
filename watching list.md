@@ -21,3 +21,4 @@ Films I especially loved are marked with an astrisk (*).
 11. [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/) (1994), by Frank Darabont*
 12. [How to Make Millions Before Grandma Dies](https://www.imdb.com/title/tt31392609/) (2024), by Pat Boonnitipat*
 13. [Wicked: Part I](https://www.imdb.com/title/tt1262426/) (2024), by Jon M. Chu
+14. [Man in Love](https://www.imdb.com/title/tt14428606/) (2021), by Chen-Hao Yin*
