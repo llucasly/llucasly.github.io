@@ -7,7 +7,7 @@ Similar to my reading list, this page documents all the films I've watched each 
 
 Films I especially loved are marked with an astrisk (*).
 
-### 2024 (Partial)
+### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
 2. [My Blueberry Nights](https://www.imdb.com/title/tt0765120/) (2007), by Wong Kar-Wai
 3. [Lost in Translation](https://www.imdb.com/title/tt0335266/) (2003), by  Sofia Coppola
@@ -25,3 +25,4 @@ Films I especially loved are marked with an astrisk (*).
 15. [In the Mood for Love](https://www.imdb.com/title/tt0118694/), by Wong Kar-Wai*
 16. [Atonement](https://www.imdb.com/title/tt0783233/), by Joe Wright
 17. [Carry-On](https://www.imdb.com/title/tt21382296/), by Jaume Collet-Serra
+18. [The Menu](https://www.imdb.com/title/tt9764362/), by Mark Mylod
