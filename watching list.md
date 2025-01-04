@@ -22,7 +22,13 @@ Films I especially loved are marked with an astrisk (*).
 12. [How to Make Millions Before Grandma Dies](https://www.imdb.com/title/tt31392609/) (2024), by Pat Boonnitipat*
 13. [Wicked: Part I](https://www.imdb.com/title/tt1262426/) (2024), by Jon M. Chu
 14. [Man in Love](https://www.imdb.com/title/tt14428606/) (2021), by Chen-Hao Yin*
-15. [In the Mood for Love](https://www.imdb.com/title/tt0118694/), by Wong Kar-Wai*
-16. [Atonement](https://www.imdb.com/title/tt0783233/), by Joe Wright
-17. [Carry-On](https://www.imdb.com/title/tt21382296/), by Jaume Collet-Serra
-18. [The Menu](https://www.imdb.com/title/tt9764362/), by Mark Mylod
+15. [In the Mood for Love](https://www.imdb.com/title/tt0118694/) (2000), by Wong Kar-Wai*
+16. [Atonement](https://www.imdb.com/title/tt0783233/) (2007), by Joe Wright
+17. [Carry-On](https://www.imdb.com/title/tt21382296/) (2024), by Jaume Collet-Serra
+18. [The Menu](https://www.imdb.com/title/tt9764362/) (2022), by Mark Mylod
+19. [Die Hard](https://www.imdb.com/title/tt0095016/) (1988), by John McTiernan
+
+### 2025 
+1. [Gladiator](https://www.imdb.com/title/tt0172495/) (2000), by Ridley Scott*
+2. [Gladiator II](https://www.imdb.com/title/tt9218128/) (2024), by Ridley Scott
+3. [Arrival](https://www.imdb.com/title/tt2543164/) (2016), by Denis Villeneuve
