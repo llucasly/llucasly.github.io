@@ -32,3 +32,4 @@ Films I especially loved are marked with an astrisk (*).
 1. [Gladiator](https://www.imdb.com/title/tt0172495/) (2000), by Ridley Scott*
 2. [Gladiator II](https://www.imdb.com/title/tt9218128/) (2024), by Ridley Scott
 3. [Arrival](https://www.imdb.com/title/tt2543164/) (2016), by Denis Villeneuve
+4. [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982), by Ridley Scott
