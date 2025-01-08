@@ -7,6 +7,14 @@ Similar to my reading list, this page documents all the films I've watched each 
 
 Films I especially loved are marked with an astrisk (*).
 
+### 2025 
+1. [Gladiator](https://www.imdb.com/title/tt0172495/) (2000), by Ridley Scott*
+2. [Gladiator II](https://www.imdb.com/title/tt9218128/) (2024), by Ridley Scott
+3. [Arrival](https://www.imdb.com/title/tt2543164/) (2016), by Denis Villeneuve
+4. [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982), by Ridley Scott
+5. [Saving Private Ryan](https://www.imdb.com/title/tt0120815/), by Steven Spielberg*
+6. [Kill Bill: Vol. 2](https://www.imdb.com/title/tt0378194/), by Quentin Tarantino*
+
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
 2. [My Blueberry Nights](https://www.imdb.com/title/tt0765120/) (2007), by Wong Kar-Wai
@@ -28,8 +36,3 @@ Films I especially loved are marked with an astrisk (*).
 18. [The Menu](https://www.imdb.com/title/tt9764362/) (2022), by Mark Mylod
 19. [Die Hard](https://www.imdb.com/title/tt0095016/) (1988), by John McTiernan
 
-### 2025 
-1. [Gladiator](https://www.imdb.com/title/tt0172495/) (2000), by Ridley Scott*
-2. [Gladiator II](https://www.imdb.com/title/tt9218128/) (2024), by Ridley Scott
-3. [Arrival](https://www.imdb.com/title/tt2543164/) (2016), by Denis Villeneuve
-4. [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982), by Ridley Scott
