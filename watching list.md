@@ -14,6 +14,9 @@ Films I especially loved are marked with an astrisk (*).
 4. [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982), by Ridley Scott
 5. [Saving Private Ryan](https://www.imdb.com/title/tt0120815/), by Steven Spielberg*
 6. [Kill Bill: Vol. 2](https://www.imdb.com/title/tt0378194/), by Quentin Tarantino
+7. [Pulp Fiction](https://www.imdb.com/title/tt0110912/), by Quentin Tarantino
+8. [Smile](https://www.imdb.com/title/tt15474916/), by Parker Finn
+9. [Smile 2](https://www.imdb.com/title/tt29268110/), by Parker Finn
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
