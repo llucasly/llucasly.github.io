@@ -12,11 +12,12 @@ Films I especially loved are marked with an astrisk (*).
 2. [Gladiator II](https://www.imdb.com/title/tt9218128/) (2024), by Ridley Scott
 3. [Arrival](https://www.imdb.com/title/tt2543164/) (2016), by Denis Villeneuve
 4. [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982), by Ridley Scott
-5. [Saving Private Ryan](https://www.imdb.com/title/tt0120815/), by Steven Spielberg*
-6. [Kill Bill: Vol. 2](https://www.imdb.com/title/tt0378194/), by Quentin Tarantino
-7. [Pulp Fiction](https://www.imdb.com/title/tt0110912/), by Quentin Tarantino
-8. [Smile](https://www.imdb.com/title/tt15474916/), by Parker Finn
-9. [Smile 2](https://www.imdb.com/title/tt29268110/), by Parker Finn
+5. [Saving Private Ryan](https://www.imdb.com/title/tt0120815/) (1998), by Steven Spielberg*
+6. [Kill Bill: Vol. 2](https://www.imdb.com/title/tt0378194/) (2004), by Quentin Tarantino
+7. [Pulp Fiction](https://www.imdb.com/title/tt0110912/) (1994), by Quentin Tarantino
+8. [Smile](https://www.imdb.com/title/tt15474916/) (2022), by Parker Finn
+9. [Smile 2](https://www.imdb.com/title/tt29268110/) (2024), by Parker Finn
+10.[The In-Laws](https://www.imdb.com/title/tt0314786/) (2003), by Andrew Fleming
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
