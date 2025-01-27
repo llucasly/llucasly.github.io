@@ -17,7 +17,7 @@ Films I especially loved are marked with an astrisk (*).
 7. [Pulp Fiction](https://www.imdb.com/title/tt0110912/) (1994), by Quentin Tarantino
 8. [Smile](https://www.imdb.com/title/tt15474916/) (2022), by Parker Finn
 9. [Smile 2](https://www.imdb.com/title/tt29268110/) (2024), by Parker Finn
-10.[The In-Laws](https://www.imdb.com/title/tt0314786/) (2003), by Andrew Fleming
+10. [The In-Laws](https://www.imdb.com/title/tt0314786/) (2003), by Andrew Fleming
 11. [Before Sunrise](https://www.imdb.com/title/tt0112471/) (1995), by Richard Linklater*
 
 ### 2024 (partial)
