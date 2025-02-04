@@ -9,6 +9,7 @@ Heavily inspired by [Susan Rigetti](https://www.susanrigetti.com/reading-list), 
 The goal is to read 52 books each year. Books I especially loved are marked with an astrisk (*).
 
 ### 2025 
+1. [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), by Fyodor Dostoevsky, Ignat Avsey (Translator)*
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
