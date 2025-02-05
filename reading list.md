@@ -10,6 +10,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), by Fyodor Dostoevsky, Ignat Avsey (Translator)*
+2. [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy), by Nigel Warburton*
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
