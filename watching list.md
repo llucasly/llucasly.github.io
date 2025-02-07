@@ -19,6 +19,7 @@ Films I especially loved are marked with an astrisk (*).
 9. [Smile 2](https://www.imdb.com/title/tt29268110/) (2024), by Parker Finn
 10. [The In-Laws](https://www.imdb.com/title/tt0314786/) (2003), by Andrew Fleming
 11. [Before Sunrise](https://www.imdb.com/title/tt0112471/) (1995), by Richard Linklater*
+12. [Hamilton](https://www.imdb.com/title/tt8503618/) (2020), by Thomas Kail*
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
