@@ -20,6 +20,7 @@ Films I especially loved are marked with an astrisk (*).
 10. [The In-Laws](https://www.imdb.com/title/tt0314786/) (2003), by Andrew Fleming
 11. [Before Sunrise](https://www.imdb.com/title/tt0112471/) (1995), by Richard Linklater*
 12. [Hamilton](https://www.imdb.com/title/tt8503618/) (2020), by Thomas Kail*
+13. [Anora](https://www.imdb.com/title/tt28607951) (2024), by Sean Baker
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
