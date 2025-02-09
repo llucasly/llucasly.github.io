@@ -7,39 +7,39 @@ Similar to my reading list, this page documents all the films I've watched each 
 
 Films I especially loved are marked with an astrisk (*).
 
-### 2025 
-1. [Gladiator](https://www.imdb.com/title/tt0172495/) (2000), by Ridley Scott*
-2. [Gladiator II](https://www.imdb.com/title/tt9218128/) (2024), by Ridley Scott
-3. [Arrival](https://www.imdb.com/title/tt2543164/) (2016), by Denis Villeneuve
-4. [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982), by Ridley Scott
-5. [Saving Private Ryan](https://www.imdb.com/title/tt0120815/) (1998), by Steven Spielberg*
-6. [Kill Bill: Vol. 2](https://www.imdb.com/title/tt0378194/) (2004), by Quentin Tarantino
-7. [Pulp Fiction](https://www.imdb.com/title/tt0110912/) (1994), by Quentin Tarantino
-8. [Smile](https://www.imdb.com/title/tt15474916/) (2022), by Parker Finn
-9. [Smile 2](https://www.imdb.com/title/tt29268110/) (2024), by Parker Finn
-10. [The In-Laws](https://www.imdb.com/title/tt0314786/) (2003), by Andrew Fleming
-11. [Before Sunrise](https://www.imdb.com/title/tt0112471/) (1995), by Richard Linklater*
-12. [Hamilton](https://www.imdb.com/title/tt8503618/) (2020), by Thomas Kail*
-13. [Anora](https://www.imdb.com/title/tt28607951) (2024), by Sean Baker
+### 2025
+1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
+2. [Gladiator II](https://letterboxd.com/film/gladiator-ii/) (2024), by Ridley Scott
+3. [Arrival](https://letterboxd.com/film/arrival-2016/) (2016), by Denis Villeneuve
+4. [Blade Runner](https://letterboxd.com/film/blade-runner/) (1982), by Ridley Scott
+5. [Saving Private Ryan](https://letterboxd.com/film/saving-private-ryan/) (1998), by Steven Spielberg*
+6. [Kill Bill: Vol. 2](https://letterboxd.com/film/kill-bill-vol-2/) (2004), by Quentin Tarantino
+7. [Pulp Fiction](https://letterboxd.com/film/pulp-fiction/) (1994), by Quentin Tarantino
+8. [Smile](https://letterboxd.com/film/smile-2022/) (2022), by Parker Finn
+9. [Smile 2](https://letterboxd.com/film/smile-2-2024/) (2024), by Parker Finn
+10. [The In-Laws](https://letterboxd.com/film/the-in-laws-2003/) (2003), by Andrew Fleming
+11. [Before Sunrise](https://letterboxd.com/film/before-sunrise/) (1995), by Richard Linklater*
+12. [Hamilton](https://letterboxd.com/film/hamilton-2020/) (2020), by Thomas Kail*
+13. [Anora](https://letterboxd.com/film/anora/) (2024), by Sean Baker
 
 ### 2024 (partial)
-1. [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) (2007), by Tim Burton
-2. [My Blueberry Nights](https://www.imdb.com/title/tt0765120/) (2007), by Wong Kar-Wai
-3. [Lost in Translation](https://www.imdb.com/title/tt0335266/) (2003), by  Sofia Coppola
-4. [Amélie](https://www.imdb.com/title/tt0211915/) (2001), by Jean-Pierre Jeunet*
-5. [12 Angry Men](https://www.imdb.com/title/tt0050083/) (1957), by Sidney Lumet*
-6. [Your Name.](https://www.imdb.com/title/tt5311514/) (2016), by Makoto Shinkai*
-7. [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/) (2001), by Wes Anderson
-8. [The Thing](https://www.imdb.com/title/tt0084787/) (1982), by John Carpenter
-9. [Whiplash](https://www.imdb.com/title/tt2582802/) (2014), by Damien Chazelle*
-10. [Poor Things](https://www.imdb.com/title/tt14230458/) (2023), by Yorgos Lanthimos
-11. [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/) (1994), by Frank Darabont*
-12. [How to Make Millions Before Grandma Dies](https://www.imdb.com/title/tt31392609/) (2024), by Pat Boonnitipat*
-13. [Wicked: Part I](https://www.imdb.com/title/tt1262426/) (2024), by Jon M. Chu
-14. [Man in Love](https://www.imdb.com/title/tt14428606/) (2021), by Chen-Hao Yin*
-15. [In the Mood for Love](https://www.imdb.com/title/tt0118694/) (2000), by Wong Kar-Wai*
-16. [Atonement](https://www.imdb.com/title/tt0783233/) (2007), by Joe Wright
-17. [Carry-On](https://www.imdb.com/title/tt21382296/) (2024), by Jaume Collet-Serra
-18. [The Menu](https://www.imdb.com/title/tt9764362/) (2022), by Mark Mylod
-19. [Die Hard](https://www.imdb.com/title/tt0095016/) (1988), by John McTiernan
+1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
+2. [My Blueberry Nights](https://letterboxd.com/film/my-blueberry-nights/) (2007), by Wong Kar-Wai
+3. [Lost in Translation](https://letterboxd.com/film/lost-in-translation/) (2003), by Sofia Coppola
+4. [Amélie](https://letterboxd.com/film/amelie/) (2001), by Jean-Pierre Jeunet*
+5. [12 Angry Men](https://letterboxd.com/film/12-angry-men/) (1957), by Sidney Lumet*
+6. [Your Name.](https://letterboxd.com/film/your-name/) (2016), by Makoto Shinkai*
+7. [The Royal Tenenbaums](https://letterboxd.com/film/the-royal-tenenbaums/) (2001), by Wes Anderson
+8. [The Thing](https://letterboxd.com/film/the-thing/) (1982), by John Carpenter
+9. [Whiplash](https://letterboxd.com/film/whiplash-2014/) (2014), by Damien Chazelle*
+10. [Poor Things](https://letterboxd.com/film/poor-things-2023/) (2023), by Yorgos Lanthimos
+11. [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/) (1994), by Frank Darabont*
+12. [How to Make Millions Before Grandma Dies](https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/) (2024), by Pat Boonnitipat*
+13. [Wicked: Part I](https://letterboxd.com/film/wicked-2024/) (2024), by Jon M. Chu
+14. [Man in Love](https://letterboxd.com/film/man-in-love-2021/) (2021), by Chen-Hao Yin*
+15. [In the Mood for Love](https://letterboxd.com/film/in-the-mood-for-love/) (2000), by Wong Kar-Wai*
+16. [Atonement](https://letterboxd.com/film/atonement/) (2007), by Joe Wright
+17. [Carry-On](https://letterboxd.com/film/carry-on-2024/) (2024), by Jaume Collet-Serra
+18. [The Menu](https://letterboxd.com/film/the-menu-2022/) (2022), by Mark Mylod
+19. [Die Hard](https://letterboxd.com/film/die-hard/) (1988), by John McTiernan
 
