@@ -9,9 +9,11 @@ Heavily inspired by [Susan Rigetti](https://www.susanrigetti.com/reading-list), 
 The goal is to read 52 books each year. Books I especially loved are marked with an astrisk (*).
 
 ### 2025 
-1. [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), by Fyodor Dostoevsky, Ignat Avsey (Translator)*
+1. [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov), by Fyodor Dostoevsky
 2. [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy), by Nigel Warburton*
 3. [The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist), by Paulo Coelho
+4. [White Nights](https://www.goodreads.com/book/show/29610266-white-nights), by Fyodor Dostoevsky
+5. [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger), by Albert Camus
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
