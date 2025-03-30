@@ -14,6 +14,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 3. [The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist), by Paulo Coelho
 4. [White Nights](https://www.goodreads.com/book/show/29610266-white-nights), by Fyodor Dostoevsky
 5. [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger), by Albert Camus*
+6. [Killing Commendatore](https://www.goodreads.com/book/show/38820047-killing-commendatore)
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
