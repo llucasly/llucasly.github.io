@@ -122,87 +122,87 @@ Finally, it is not uncommon for adversaries to abuse legitimate Windows services
 
 <br>
 
-**Application Compatibility Database.** (2021, January 7). *Application compatibility database*. Retrieved from  
+<strong>Application Compatibility Database.</strong> (2021, January 7). <em>Application compatibility database</em>. Retrieved from  
 https://learn.microsoft.com/en-us/windows/win32/devnotes/application-compatibility-database
 
-<br>
+<br><br>
 
-**Bergmans, B. L.** (2023, February 22). *What Are Living off the Land (LOTL) Attacks*. Retrieved from  
+<strong>Bergmans, B. L.</strong> (2023, February 22). <em>What Are Living off the Land (LOTL) Attacks</em>. Retrieved from  
 https://www.crowdstrike.com/cybersecurity-101/living-off-the-land-attacks-lotl/
 
-<br>
+<br><br>
 
-**Chen, R.** (2022, October 6). *The Import Address Table is now write-protected, and what that means for rogue patching*. Retrieved from  
+<strong>Chen, R.</strong> (2022, October 6). <em>The Import Address Table is now write-protected, and what that means for rogue patching</em>. Retrieved from  
 https://devblogs.microsoft.com/oldnewthing/20221006-07/?p=107257
 
-<br>
+<br><br>
 
-**Davis, A.** (2012). *Leveraging the application compatibility cache in forensic investigations*. Mandiant. Retrieved from  
+<strong>Davis, A.</strong> (2012). <em>Leveraging the application compatibility cache in forensic investigations</em>. Mandiant. Retrieved from  
 https://web.archive.org/web/20210727184134/https://www.fireeye.com/content/dam/fireeye-www/services/freeware/shimcache-whitepaper.pdf
 
-<br>
+<br><br>
 
-**Davis, R. [13Cubed].** (2021, July 19). *Let's talk about Shimcache - The most misunderstood artifact* [Video]. YouTube.  
+<strong>Davis, R. [13Cubed].</strong> (2021, July 19). <em>Let's talk about Shimcache - The most misunderstood artifact</em> [Video]. YouTube.  
 https://www.youtube.com/watch?v=7byz1dR_CLg
 
-<br>
+<br><br>
 
-**Dynamic-Link Libraries.** (2022). *Dynamic-Link Libraries*. Retrieved from  
+<strong>Dynamic-Link Libraries.</strong> (2022). <em>Dynamic-Link Libraries</em>. Retrieved from  
 https://learn.microsoft.com/en-us/windows/win32/dlls/dynamic-link-libraries
 
-<br>
+<br><br>
 
-**Marcho, C.** (2019, March 16). *Demystifying Shims - or - Using the App Compat Toolkit to make your old stuff work with your new stuff*. Retrieved from  
+<strong>Marcho, C.</strong> (2019, March 16). <em>Demystifying Shims - or - Using the App Compat Toolkit to make your old stuff work with your new stuff</em>. Retrieved from  
 https://techcommunity.microsoft.com/t5/ask-the-performance-team/demystifying-shims-or-using-the-app-compat-toolkit-to-make-your/ba-p/374947
 
-<br>
+<br><br>
 
-**MITRE ATT&CK.** (2020, January 24). *T1546.011: Application shim injection*. Retrieved from  
+<strong>MITRE ATT&CK.</strong> (2020, January 24). <em>T1546.011: Application shim injection</em>. Retrieved from  
 https://attack.mitre.org/techniques/T1546/011/
 
-<br>
+<br><br>
 
-**Parisi, T.** (2015, June 17). *Caching Out: The Value of Shimcache for Investigators*. Retrieved from  
+<strong>Parisi, T.</strong> (2015, June 17). <em>Caching Out: The Value of Shimcache for Investigators</em>. Retrieved from  
 https://cloud.google.com/blog/topics/threat-intelligence/caching-out-the-val/
 
-<br>
+<br><br>
 
-**Peterson, M.** (2024, August 21). *AppCompatCache Deep Dive*. Retrieved from  
+<strong>Peterson, M.</strong> (2024, August 21). <em>AppCompatCache Deep Dive</em>. Retrieved from  
 https://nullsec.us/windows-10-11-appcompatcache-deep-dive/
 
-<br>
+<br><br>
 
-**Rocha, L.** (2016, May 18). *Digital Forensics – ShimCache Artifacts*. Retrieved from  
+<strong>Rocha, L.</strong> (2016, May 18). <em>Digital Forensics – ShimCache Artifacts</em>. Retrieved from  
 https://countuponsecurity.com/2016/05/18/digital-forensics-shimcache-artifacts/
 
-<br>
+<br><br>
 
-**ShimCache.** (2022). Retrieved from  
+<strong>ShimCache.</strong> (2022). Retrieved from  
 https://forensafe.com/blogs/shimcache.html
 
-<br>
+<br><br>
 
-**Shimcache: InfoSec Notes.** (n.d.). Retrieved from  
+<strong>Shimcache: InfoSec Notes.</strong> (n.d.). Retrieved from  
 https://notes.qazeer.io/dfir/windows/_artefacts_overview/shimcache
 
-<br>
+<br><br>
 
-**Tuominen, M.** (2023, July 31). *Novel analysis approaches for Windows Shimcache in forensic investigations* (Master’s thesis). Aalto University. Retrieved from  
+<strong>Tuominen, M.</strong> (2023, July 31). <em>Novel analysis approaches for Windows Shimcache in forensic investigations</em> (Master’s thesis). Aalto University. Retrieved from  
 https://aaltodoc.aalto.fi/server/api/core/bitstreams/2e49da95-ce39-480b-a3e3-e5f9e73e77f0/content
 
-<br>
+<br><br>
 
-**Understanding Shims.** (2012). Retrieved from  
+<strong>Understanding Shims.</strong> (2012). Retrieved from  
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-7/dd837644(v=ws.10)
 
-<br>
+<br><br>
 
-**What is a DLL.** (2024). Retrieved from  
+<strong>What is a DLL.</strong> (2024). Retrieved from  
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library
 
-<br>
+<br><br>
 
-**Zimmerman, E. [EricZimmerman].** (2023, July 8). *AppCompatCacheParser* [Source code]. GitHub.  
+<strong>Zimmerman, E. [EricZimmerman].</strong> (2023, July 8). <em>AppCompatCacheParser</em> [Source code]. GitHub.  
 https://github.com/EricZimmerman/AppCompatCacheParser
 
 </details>
