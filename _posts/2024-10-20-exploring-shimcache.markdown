@@ -15,7 +15,17 @@ I don't want my insecurities or need for perfection to hinder me from sharing my
 
 What good would it be to not make mistakes? The important thing is to learn from them and reflect on how far I've come.
 
-## Abstract 
+## Table of contents
+- [Table of contents](#table-of-contents)
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Technical Analysis](#technical-analysis)
+- [Shim Process](#shim-process)
+- [Shim Structure](#shim-structure)
+- [Limitations](#limitations)
+- [References](#references)
+
+## [Abstract](#abstract)
 The ShimCache is a component of the Microsoft Windows Application Compatibility Infrastructure, introduced to address compatibility issues and to ensure that legacy programs remain functional with new releases of the Windows operating system (Understanding Shims, 2012). 
 
 The shim acts as a proxy between outdated applications and the operating system, replacing incompatible code with updated or alternative code through a process known as shimming ("Shimcache: InfoSec Notes," n.d.). Files that have recently been shimmed are recorded in the ShimCache, which contains metadata of interest to investigators, such as the full file path, size, and last modified date (Parisi, 2015). 
@@ -28,7 +38,7 @@ Complicating the analysis further is the shift to writing cache data only during
 
 Overall, the complexity and variability of analysing the shimcache, arising from the numerous Windows versions each with unique behaviours, lack of detailed internal documentation, finite size, and data rolling of the ShimCache, complicate reliable analysis. Although the ShimCache can reliably indicate that a file was present on the system, confidently determining whether the file was executed requires ongoing research and testing. 
 
-## Introduction
+## [Introduction](#introduction)
 The Microsoft Windows Application Compatibility Infrastructure, also known as the Shim Infrastructure, was introduced in Windows XP (Parisi, 2015) to address compatibility issues with older programs to ensure they remain functional with new releases of the Microsoft operating system. This system acts as a proxy layer between these outdated applications and the new OS (Rocha, 2016). It identifies compatibility issues and resolves them through a process known as shimming. 
 
 A shim is a small library that sits between two components to modify their behaviour, it “transparently intercepts an API, changes the parameters passed, handles the operation itself, or redirects the operation elsewhere (Marcho, 2019)”. Shims are an effective method of resolving incompatibility between applications and the operating system. They provide backwards compatibility enabling legacy applications to operate on newer versions of Windows by replacing problematic binaries. 
@@ -39,8 +49,8 @@ The ShimCache, also known as the AppCompatCache, is stored in the Application Co
 
 This artefact is of interest to digital forensic investigators because it can often be used to trace and analyse program execution or modifications, as well as details such as the full path and size of associated files, the existence of files on the system, and, in some cases, the execution order and time (Tuominen, 2023). On Windows Server operating systems, where Prefetch is disabled by default, the shimcache becomes an even more valuable source of evidence, serving as an alternative for tracking and analysing file activity (Rocha, 2016). 
 
-## Technical Analysis
-### Shim Process
+## [Technical Analysis](#technical-analysis)
+### [Shim Process](#shim-process)
 This section discusses in further depth the process of shimming, from program execution to the addition of ShimCache entries. 
 
 The Windows API is implemented using a collection of Dynamic-Link Libraries (DLL) which are essentially modules that “contain functions and data that can be used by [other] module[s]” ("Dynamic-link libraries (DLLs)", 2022). These DLLs encompass much of Windows core functionality and serve as a mechanism through which applications communicate and implement fundamental Windows services. One example is the Comdlg32 DLL which performs common dialog box related functions (What is a DLL, 2024). 
@@ -53,7 +63,7 @@ Shimmed files are recorded in the ShimCache, which tracks files that have recent
 
 To determine if an application requires shimming, the Shim Engine will query the Application Compatibility Database, a database with the .sdb extension that contains a list of applications that have compatibility issues and require shimming. This process of looking up the application in the database and determining the appropriate shim to apply for each application is known as matching (Application Compatibility Database, 2021). 
 
-### Shim Structure
+### [Shim Structure](#shim-structure)
 #### Windows XP 32-bit 
 In Windows XP 32-bit editions, the shimcache is stored in the registry path:
 
@@ -96,7 +106,7 @@ The ShimCache in these modern versions of Windows have a header size of 52 bytes
 
 Further research has supported this claim, revealing that executed files in the ShimCache had the expected value 1 set in the last 4 bytes of the entry. However, this wasn’t true for all cases. For example, where execution had been expected and observed such as “sass.exe, cmd.exe, and explorer.exe” did not result in an entry in the shimcache (Peterson, 2024). This suggests that while the execution flag can indicate a high likelihood of execution when set, its absence does not definitively rule out execution. 
 
-### Limitations 
+### [Limitations](#limitations) 
 Due to the proprietary and closed-source nature of the Windows operating system, most research on the ShimCache artefact has been conducted through black box testing. In this approach, specific actions are performed, and their outcomes are recorded to determine if a particular action consistently produces a specific result. The addition of numerous versions, each with unique behaviours, creates a complex forensic ecosystem. This complexity imposes limitations, as assertions cannot be guaranteed due to the variability and lack of detailed internal documentation. Consequently, artefacts like the shimcache require ongoing research and testing before reliable guarantees can be made.
 
 The vastly different behaviours across various versions require investigators to have not only a strong understanding of the artefact but also requires the consideration of the various contexts in which it is applied. An assertion that holds true in one version may not apply to another. For example, in Windows Vista and Windows Server 2008, the inclusion of a file in the ShimCache no longer guarantees execution, as files began to be added by interactively browsing a directory.
@@ -107,8 +117,8 @@ Another limitation of the ShimCache artefact is its finite size and data rolling
 
 Finally, it is not uncommon for adversaries to abuse legitimate Windows services to carry out attacks using a technique known as LOTL, where the attacker utilises tools already installed on the victim's environment (Bergmans, 2023). This also applies to the Windows Application Compatibility Infrastructure, specifically the shimming process, which can be exploited to establish persistence, inject DLLs, elevate privileges, and perform other malicious actions (MITRE ATT&CK, 2020). Consequently, an artefact that investigators use to discover malware could itself be exploited to execute malicious code. 
 
-
-### References
+<details>
+<summary> ### [References](#references) </summary>
 Application Compatibility Database. (2021, January 7). Application compatibility database. Retrieved from https://learn.microsoft.com/en-us/windows/win32/devnotes/application-compatibility-database
 
 Bergmans, B. L. (2023, February 22). What AreLiving off the Land (LOTL) Attacks. Retrieved from https://www.crowdstrike.com/cybersecurity-101/living-off-the-land-attacks-lotl/
@@ -142,3 +152,4 @@ Understanding Shims. (2012). Retrieved from https://learn.microsoft.com/en-us/pr
 What is a DLL. (2024). Retrieved from https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library
 
 Zimmerman, E. [EricZimmerman]. (2023, July 8). AppCompatCacheParser [Source code]. GitHub. https://github.com/EricZimmerman/AppCompatCacheParser 
+</details>
