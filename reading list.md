@@ -16,6 +16,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 5. [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger), by Albert Camus*
 6. [Killing Commendatore](https://www.goodreads.com/book/show/38820047-killing-commendatore), by Haruki Murakami
 7. [Slaughterhouse-Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five), by Kurt Vonnegut
+8. [The Little Prince](https://www.goodreads.com/book/show/157993.The_Little_Prince), by Antoine de Saint-Exupéry
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
