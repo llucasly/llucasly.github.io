@@ -27,6 +27,7 @@ Films I especially loved are marked with an astrisk (*).
 17. [Before Midnight](https://letterboxd.com/film/before-midnight/) (2013), by Richard Linklater*
 18. [A Minecraft Movie](https://letterboxd.com/film/a-minecraft-movie/) (2025), by Jared Hess 
 19. [Training Day](https://letterboxd.com/film/training-day/) (2001), by Antoine Fuqua
+20. [Pride & Prejudice](https://letterboxd.com/film/pride-prejudice/) (2005), by Joe Wright
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
