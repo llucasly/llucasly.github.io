@@ -31,6 +31,7 @@ Films I especially loved are marked with an astrisk (*).
 21. [Rush Hour](https://letterboxd.com/film/rush-hour/) (1998), by Brett Ratner*
 22. [Rush Hour 2](https://letterboxd.com/film/rush-hour-2/) (2001), by Brett Ratner
 23. [Rush Hour 3](https://letterboxd.com/film/rush-hour-3/) (2007), by Brett Ratner
+24. [(500) Days of Summer](https://letterboxd.com/film/500-days-of-summer/) (2009), by Marc Webb
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
