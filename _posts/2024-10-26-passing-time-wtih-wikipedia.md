@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wikipedia: A Fun Way to Pass the Time" 
+title:  "   Wikipedia: A Fun Way to Pass the Time" 
 date:   2024-10-26 22:43:00 +1000
 categories: Reading
 ---
