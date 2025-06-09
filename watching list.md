@@ -35,6 +35,7 @@ Films I especially loved are marked with an astrisk (*).
 25. [The Princess Bride](https://letterboxd.com/film/the-princess-bride/) (1987), by Rob Reiner
 26. [Sinners](https://letterboxd.com/film/sinners-2025/) (2025), by Ryan Coogler 
 27. [The Cat Returns](https://letterboxd.com/film/the-cat-returns/) (2002), by Hiroyuki Morita 
+28. [Se7en](https://letterboxd.com/film/se7en/) (1995), by David Fincher
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
