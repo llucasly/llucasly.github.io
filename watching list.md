@@ -37,6 +37,7 @@ Films I especially loved are marked with an astrisk (*).
 27. [The Cat Returns](https://letterboxd.com/film/the-cat-returns/) (2002), by Hiroyuki Morita 
 28. [Se7en](https://letterboxd.com/film/se7en/) (1995), by David Fincher
 29. [How to Train Your Dragon](https://letterboxd.com/film/how-to-train-your-dragon-2025/) (2025), by Dean DeBlois
+30. [KPop Demon Hunters](https://letterboxd.com/film/kpop-demon-hunters/) (2025), by Chris Appelhans andS Maggie Kang 
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
