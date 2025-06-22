@@ -18,6 +18,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 7. [Slaughterhouse-Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five), by Kurt Vonnegut
 8. [The Little Prince](https://www.goodreads.com/book/show/157993.The_Little_Prince), by Antoine de Saint-Exupéry
 9. [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice), by Michael J. Sandel
+10. [The Richest Man in Babylon](https://www.goodreads.com/book/show/43097201-the-richest-man-in-babylon), by George S. Clason*
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
