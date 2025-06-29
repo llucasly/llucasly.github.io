@@ -39,6 +39,7 @@ Films I especially loved are marked with an astrisk (*).
 29. [How to Train Your Dragon](https://letterboxd.com/film/how-to-train-your-dragon-2025/) (2025), by Dean DeBlois
 30. [KPop Demon Hunters](https://letterboxd.com/film/kpop-demon-hunters/) (2025), by Chris Appelhans and Maggie Kang 
 31. [13 Going on 30](https://letterboxd.com/film/13-going-on-30-3/) (2004), by Gary Winick
+32. [About Time](https://letterboxd.com/film/about-time/) (2013), by Richard Curtis
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
