@@ -5,7 +5,7 @@ date:   2024-10-26 22:43:00 +1000
 categories: Reading
 ---
 
-One of my recent favourite pastimes is to read through a selection of the 500 curated Wikipedia articles available <a href="https://endwalker.com/archive.html" target="_blank" rel="noopener noreferrer">here</a>
+One of my recent favourite pastimes is to read through a selection of the 500 curated Wikipedia articles available <a href="https://endwalker.com/archive.html" target="_blank" rel="noopener noreferrer">here.</a>
 
 
 It's a guilty pleasure of mine, a form of "productive" procrasination. 
