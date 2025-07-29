@@ -41,7 +41,8 @@ Films I especially loved are marked with an astrisk (*).
 31. [13 Going on 30](https://letterboxd.com/film/13-going-on-30-3/) (2004), by Gary Winick
 32. [About Time](https://letterboxd.com/film/about-time/) (2013), by Richard Curtis
 33. [Gone Girl](https://letterboxd.com/film/gone-girl/) (2014), by David Fincher
-34. [Her](https://letterboxd.com/film/her/) (2013), by Spike Jonze 
+34. [Her](https://letterboxd.com/film/her/) (2013), by Spike Jonze
+35. [Twilight](https://letterboxd.com/film/twilight-2008/) (2008), by Catherine Hardwicke 
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
