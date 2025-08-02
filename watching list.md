@@ -44,6 +44,7 @@ Films I especially loved are marked with an astrisk (*).
 34. [Her](https://letterboxd.com/film/her/) (2013), by Spike Jonze
 35. [Twilight](https://letterboxd.com/film/twilight-2008/) (2008), by Catherine Hardwicke 
 36. [Superman](https://letterboxd.com/film/superman-2025/) (2025), by James Gunn
+37. [The Twilight Saga: New Moon](https://letterboxd.com/film/the-twilight-saga-new-moon/) (2009), by Chris Weitz
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
