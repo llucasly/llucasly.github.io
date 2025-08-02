@@ -43,6 +43,7 @@ Films I especially loved are marked with an astrisk (*).
 33. [Gone Girl](https://letterboxd.com/film/gone-girl/) (2014), by David Fincher
 34. [Her](https://letterboxd.com/film/her/) (2013), by Spike Jonze
 35. [Twilight](https://letterboxd.com/film/twilight-2008/) (2008), by Catherine Hardwicke 
+36. [Superman](https://letterboxd.com/film/superman-2025/) (2025), by James Gunn
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
