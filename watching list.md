@@ -46,6 +46,8 @@ Films I especially loved are marked with an astrisk (*).
 36. [Superman](https://letterboxd.com/film/superman-2025/) (2025), by James Gunn
 37. [The Twilight Saga: New Moon](https://letterboxd.com/film/the-twilight-saga-new-moon/) (2009), by Chris Weitz
 38. [WALL·E](https://letterboxd.com/film/walle/) (2008), by Andrew Stanton*
+39. [The Twilight Saga: Eclipse](https://letterboxd.com/film/the-twilight-saga-eclipse/) (2010), by David Slade
+40. [The Twilight Saga: Breaking Dawn – Part 1](https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/) (2011), by Bill Condon
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
