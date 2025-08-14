@@ -48,6 +48,7 @@ Films I especially loved are marked with an astrisk (*).
 38. [WALL·E](https://letterboxd.com/film/walle/) (2008), by Andrew Stanton*
 39. [The Twilight Saga: Eclipse](https://letterboxd.com/film/the-twilight-saga-eclipse/) (2010), by David Slade
 40. [The Twilight Saga: Breaking Dawn – Part 1](https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/) (2011), by Bill Condon
+41. [In the Mood for Love](https://letterboxd.com/film/in-the-mood-for-love/) (2000), by Wong Kar-Wai*
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton

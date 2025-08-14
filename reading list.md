@@ -21,6 +21,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 10. [The Richest Man in Babylon](https://www.goodreads.com/book/show/43097201-the-richest-man-in-babylon), by George S. Clason*
 11. [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations), by Kerry Patterson et al.
 12. [The Metamorphosis](https://www.goodreads.com/book/show/198658396-the-metamorphosis), by Franz Kafka
+13. [After the Quake](https://www.goodreads.com/book/show/17256597-after-the-quake), by Haruki Murakami
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
