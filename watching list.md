@@ -50,6 +50,7 @@ Films I especially loved are marked with an astrisk (*).
 40. [The Twilight Saga: Breaking Dawn – Part 1](https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/) (2011), by Bill Condon
 41. [In the Mood for Love](https://letterboxd.com/film/in-the-mood-for-love/) (2000), by Wong Kar-Wai*
 42. [The Twilight Saga: Breaking Dawn – Part 2](https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-2/) (2012), by Bill Condon*
+43. [The Prince of Egypt](https://letterboxd.com/film/the-prince-of-egypt/) (1998), by Steve Hickner et al.
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
