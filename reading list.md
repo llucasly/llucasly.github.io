@@ -22,6 +22,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 11. [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations), by Kerry Patterson et al.
 12. [The Metamorphosis](https://www.goodreads.com/book/show/198658396-the-metamorphosis), by Franz Kafka
 13. [After the Quake](https://www.goodreads.com/book/show/17256597-after-the-quake), by Haruki Murakami
+14. [Customer Magic — The Macquarie Way](https://www.goodreads.com/book/show/205469583-customer-magic-the-macquarie-way), by Joseph A. Michelli
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
