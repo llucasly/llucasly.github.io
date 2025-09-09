@@ -52,6 +52,7 @@ Films I especially loved are marked with an astrisk (*).
 42. [The Twilight Saga: Breaking Dawn – Part 2](https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-2/) (2012), by Bill Condon*
 43. [The Prince of Egypt](https://letterboxd.com/film/the-prince-of-egypt/) (1998), by Steve Hickner et al.
 44. [Forrest Gump](https://letterboxd.com/film/forrest-gump/) (1994), by Robert Zemeckis*
+45. [Punch-Drunk Love](https://letterboxd.com/film/punch-drunk-love/) (2002), by Paul Thomas Anderson
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
