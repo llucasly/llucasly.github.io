@@ -25,6 +25,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 14. [Customer Magic — The Macquarie Way](https://www.goodreads.com/book/show/205469583-customer-magic-the-macquarie-way), by Joseph A. Michelli
 15. [Kitchen](https://www.goodreads.com/book/show/50144.Kitchen), by Banana Yoshimoto*  
 16. [Stoner](https://www.goodreads.com/book/show/166997.Stoner), by John Williams*
+17. [The Subversive Simone Weil: A Life in Five Ideas](https://www.goodreads.com/book/show/55244640-the-subversive-simone-weil), by Robert Zaretsky
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
