@@ -54,6 +54,7 @@ Films I especially loved are marked with an astrisk (*).
 44. [Forrest Gump](https://letterboxd.com/film/forrest-gump/) (1994), by Robert Zemeckis*
 45. [Punch-Drunk Love](https://letterboxd.com/film/punch-drunk-love/) (2002), by Paul Thomas Anderson
 46. [The Social Network](https://letterboxd.com/film/the-social-network/) (2010), by David Fincher*
+47. [Pirates of the Caribbean: The Curse of the Black Pearl](https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/) (2003),  Gore Verbinski 
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
