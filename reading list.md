@@ -26,6 +26,10 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 15. [Kitchen](https://www.goodreads.com/book/show/50144.Kitchen), by Banana Yoshimoto*  
 16. [Stoner](https://www.goodreads.com/book/show/166997.Stoner), by John Williams*
 17. [The Subversive Simone Weil: A Life in Five Ideas](https://www.goodreads.com/book/show/55244640-the-subversive-simone-weil), by Robert Zaretsky
+18. [The Elephant Vanishes](https://www.goodreads.com/book/show/9555.The_Elephant_Vanishes), by Haruki Murakami
+    - The Second Bakery Attack*
+    - On Seeing the 100% Perfect Girl One Beautiful April Morning*
+
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
