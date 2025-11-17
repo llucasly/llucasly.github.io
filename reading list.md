@@ -30,7 +30,6 @@ The goal is to read 52 books each year. Books I especially loved are marked with
     - The Second Bakery Attack*
     - On Seeing the 100% Perfect Girl One Beautiful April Morning*
 
-
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
 2. [On the Shortness of Life](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life), by Seneca*
