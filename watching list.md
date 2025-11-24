@@ -72,7 +72,7 @@ Films I especially loved are marked with an astrisk (*).
 10. [Poor Things](https://letterboxd.com/film/poor-things-2023/) (2023), by Yorgos Lanthimos
 11. [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/) (1994), by Frank Darabont*
 12. [How to Make Millions Before Grandma Dies](https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/) (2024), by Pat Boonnitipat*
-13. [Wicked: Part I](https://letterboxd.com/film/wicked-2024/) (2024), by Jon M. Chu
+13. [Wicked](https://letterboxd.com/film/wicked-2024/) (2024), by Jon M. Chu
 14. [Man in Love](https://letterboxd.com/film/man-in-love-2021/) (2021), by Chen-Hao Yin*
 15. [In the Mood for Love](https://letterboxd.com/film/in-the-mood-for-love/) (2000), by Wong Kar-Wai*
 16. [Atonement](https://letterboxd.com/film/atonement/) (2007), by Joe Wright
