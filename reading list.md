@@ -30,6 +30,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
     - The Second Bakery Attack*
     - On Seeing the 100% Perfect Girl One Beautiful April Morning*
 19. [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye), by J.D. Salinger
+20. [Mr Salary](https://www.goodreads.com/book/show/34234631-mr-salary), by Sally Rooney
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
