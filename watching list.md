@@ -61,6 +61,7 @@ Films I especially loved are marked with an astrisk (*).
 51. [Mystery Men](https://letterboxd.com/film/mystery-men/) (1999), by Kinka Usher 
 52. [Notting Hill](https://letterboxd.com/film/notting-hill/) (1999), by Roger Michell 
 53. [The Graduate](https://letterboxd.com/film/the-graduate/) (1967), by Mike Nichols 
+54. [No Other Land](https://letterboxd.com/film/no-other-land/) (2024), by Basel Adra et al.
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
