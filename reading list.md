@@ -32,6 +32,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 19. [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye), by J.D. Salinger
 20. [Mr Salary](https://www.goodreads.com/book/show/34234631-mr-salary), by Sally Rooney
 21. [Desire](https://www.goodreads.com/book/show/33952849-desire), by Haruki Murakami
+22. [The Master and Margarita](https://www.goodreads.com/book/show/216137122-the-master-and-margarita), by Mikhail Bulgakov
 
 ### 2024 (partial)
 1. [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar), by Sylvia Plath
