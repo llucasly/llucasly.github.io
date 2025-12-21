@@ -63,6 +63,7 @@ Films I especially loved are marked with an astrisk (*).
 53. [The Graduate](https://letterboxd.com/film/the-graduate/) (1967), by Mike Nichols 
 54. [No Other Land](https://letterboxd.com/film/no-other-land/) (2024), by Basel Adra et al.
 55. [Autumn Sonata](https://letterboxd.com/film/autumn-sonata/) (1978), by Ingmar Bergman*
+56. [Kung Fu Hustle](https://letterboxd.com/film/kung-fu-hustle/) (2004), by Stephen Chow*
 
 ### 2024 (partial)
 1. [Sweeney Todd: The Demon Barber of Fleet Street](https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/) (2007), by Tim Burton
