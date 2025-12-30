@@ -108,3 +108,8 @@ summary {
   border-radius: 4px;
   background: #f5f5f5;
 }
+
+summary:hover img {
+  opacity: 0.7;            /* makes the image slightly transparent */
+  filter: grayscale(30%);  /* optional: slightly grey out the image */
+}
