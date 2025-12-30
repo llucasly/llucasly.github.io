@@ -13,9 +13,6 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-    
-  - title: photography
-    url: "photography"
 
   - title: reading list
     url: "reading list"
