@@ -7,6 +7,9 @@ Similar to my reading list, this page documents all the films I've watched each 
 
 Films I especially loved are marked with an astrisk (*).
 
+### 2026
+1. [Ponyo](https://letterboxd.com/film/ponyo/) (2008), by Hayao Miyazaki
+
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
 2. [Gladiator II](https://letterboxd.com/film/gladiator-ii/) (2024), by Ridley Scott
