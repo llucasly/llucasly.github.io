@@ -8,6 +8,9 @@ Heavily inspired by [Susan Rigetti](https://www.susanrigetti.com/reading-list), 
 
 The goal is to read 52 books each year. Books I especially loved are marked with an astrisk (*).
 
+### 2026
+1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), by Yuval Noah Harari
+
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
 2. [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy), by Nigel Warburton*
