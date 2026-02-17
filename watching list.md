@@ -10,6 +10,7 @@ Films I especially loved are marked with an astrisk (*).
 ### 2026
 1. [Ponyo](https://letterboxd.com/film/ponyo/) (2008), by Hayao Miyazaki
 2. [Zootopia 2](https://letterboxd.com/film/zootopia-2/) (2025), by Jared Bush and Byron Howard
+3. [Aftersun](https://letterboxd.com/film/aftersun/) (2022), by Charlotte Wells
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
