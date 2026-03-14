@@ -47,13 +47,11 @@
     .gallery {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 1px;
+      gap: 1rem;
       margin-bottom: 3rem;
-      background: #000; /* creates the 1px border effect between cells */
     }
 
     .photo-item {
-      background: #fff;
       position: relative;
       overflow: hidden;
       cursor: pointer;
@@ -90,11 +88,10 @@
     #lightbox.open { display: flex; }
 
     #lightbox img {
-      max-width: 100%;
-      max-height: 80vh;
+      max-width: 90vw;
+      max-height: 90vh;
       object-fit: contain;
       display: block;
-      border: 1px solid #000;
     }
 
     #lightbox-caption {
@@ -136,13 +133,7 @@
     }
     #lightbox-nav button:hover { text-decoration: none; }
 
-    /* Footer note */
-    .note {
-      font-size: 0.85rem;
-      color: #555;
-      border-top: 1px solid #000;
-      padding-top: 1rem;
-    }
+
   </style>
 </head>
 <body>
@@ -185,9 +176,7 @@
 
   </div>
 
-  <p class="note">Click any photo to enlarge. Add your images by replacing the <code>src</code> values.</p>
-
-  <!-- Lightbox -->
+<!-- Lightbox -->
   <div id="lightbox" role="dialog" aria-modal="true">
     <button id="lightbox-close" aria-label="Close">close</button>
     <img id="lightbox-img" src="" alt="" />
