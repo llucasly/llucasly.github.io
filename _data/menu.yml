@@ -6,6 +6,8 @@ entries:
     entries:
       - title: <a href='mailto:lucasly@protonmail.com'>email</a>
       - title: <a href='https://github.com/semi-calcutec'>github</a>
+  - title: photography
+    url: "photography"
 
   - title: posts
     post_list:
