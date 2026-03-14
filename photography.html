@@ -18,13 +18,9 @@
       padding: 2rem 1.5rem 4rem;
     }
 
-    a {
-      color: #000;
-      text-decoration: underline;
-    }
+    a { color: #000; text-decoration: underline; }
     a:hover { text-decoration: none; }
 
-    /* Back link */
     .back {
       display: inline-block;
       margin-bottom: 2.5rem;
@@ -43,25 +39,30 @@
       margin-bottom: 2.5rem;
     }
 
-    /* Gallery grid */
+    /* Justified gallery */
     .gallery {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
       margin-bottom: 3rem;
     }
 
+    .gallery-row {
+      display: flex;
+      gap: 0.5rem;
+    }
+
     .photo-item {
-      position: relative;
-      overflow: hidden;
       cursor: pointer;
+      overflow: hidden;
+      flex-shrink: 0;
     }
 
     .photo-item img {
-      width: 100%;
-      aspect-ratio: 4 / 3;
-      object-fit: cover;
       display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
       filter: grayscale(10%);
       transition: filter 0.3s ease, transform 0.3s ease;
     }
@@ -70,8 +71,6 @@
       filter: grayscale(0%);
       transform: scale(1.02);
     }
-
-
 
     /* Lightbox */
     #lightbox {
@@ -92,12 +91,6 @@
       max-height: 90vh;
       object-fit: contain;
       display: block;
-    }
-
-    #lightbox-caption {
-      margin-top: 0.75rem;
-      font-size: 0.85rem;
-      color: #444;
     }
 
     #lightbox-close {
@@ -132,8 +125,6 @@
       padding: 0;
     }
     #lightbox-nav button:hover { text-decoration: none; }
-
-
   </style>
 </head>
 <body>
@@ -144,39 +135,25 @@
   <p class="subtitle">A collection of photographs.</p>
 
   <!--
-    Replace the src attributes below with your actual image paths.
-    You can use relative paths like src="photos/img1.jpg"
-    or absolute URLs.
+    Add your photos as photo-item divs inside the gallery.
+    Set data-width and data-height to the photo's real pixel dimensions
+    so the layout calculates correctly before images fully load.
+    Example: <div class="photo-item"><img src="myphoto.jpg" data-width="4000" data-height="3000" alt="" /></div>
   -->
   <div class="gallery" id="gallery">
 
-    <div class="photo-item" data-index="0">
-      <img src="https://www.flickr.com/photo_download.gne?id=55146688064&secret=9bca204d60&size=l&source=photoPageEngagement" alt="Photo 1" />
-    </div>
-
-    <div class="photo-item" data-index="1">
-      <img src="https://placehold.co/600x450/d8d8d8/555?text=photo+2" alt="Photo 2" />
-    </div>
-
-    <div class="photo-item" data-index="2">
-      <img src="https://placehold.co/600x450/c8c8c8/555?text=photo+3" alt="Photo 3" />
-    </div>
-
-    <div class="photo-item" data-index="3">
-      <img src="https://placehold.co/600x450/b8b8b8/555?text=photo+4" alt="Photo 4" />
-    </div>
-
-    <div class="photo-item" data-index="4">
-      <img src="https://placehold.co/600x450/a8a8a8/666?text=photo+5" alt="Photo 5" />
-    </div>
-
-    <div class="photo-item" data-index="5">
-      <img src="https://placehold.co/600x450/989898/666?text=photo+6" alt="Photo 6" />
-    </div>
+    <div class="photo-item"><img src="https://www.flickr.com/photo_download.gne?id=55146688064&secret=9bca204d60&size=l&source=photoPageEngagement" data-width="600" data-height="400" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/400x600/d8d8d8/555?text=2" data-width="400" data-height="600" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/800x500/c8c8c8/555?text=3" data-width="800" data-height="500" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/500x500/b8b8b8/555?text=4" data-width="500" data-height="500" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/700x400/a8a8a8/555?text=5" data-width="700" data-height="400" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/400x700/989898/666?text=6" data-width="400" data-height="700" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/600x600/888888/666?text=7" data-width="600" data-height="600" alt="" /></div>
+    <div class="photo-item"><img src="https://placehold.co/900x500/787878/666?text=8" data-width="900" data-height="500" alt="" /></div>
 
   </div>
 
-<!-- Lightbox -->
+  <!-- Lightbox -->
   <div id="lightbox" role="dialog" aria-modal="true">
     <button id="lightbox-close" aria-label="Close">close</button>
     <img id="lightbox-img" src="" alt="" />
@@ -187,40 +164,102 @@
   </div>
 
   <script>
-    const items = Array.from(document.querySelectorAll('.photo-item'));
+    /* ── Justified layout ── */
+    function justify() {
+      const gallery = document.getElementById('gallery');
+      const totalWidth = gallery.clientWidth;
+      const gap = 8;
+      const targetRowHeight = 200;
+      const photos = Array.from(gallery.querySelectorAll('.photo-item'));
+
+      const ratios = photos.map(item => {
+        const img = item.querySelector('img');
+        const w = parseFloat(img.dataset.width) || img.naturalWidth || 1;
+        const h = parseFloat(img.dataset.height) || img.naturalHeight || 1;
+        return w / h;
+      });
+
+      // Detach items, clear gallery
+      gallery.innerHTML = '';
+
+      let i = 0;
+      while (i < photos.length) {
+        let rowRatioSum = 0;
+        let j = i;
+
+        while (j < photos.length) {
+          rowRatioSum += ratios[j];
+          const rowWidth = rowRatioSum * targetRowHeight + gap * (j - i);
+          j++;
+          if (rowWidth >= totalWidth) break;
+        }
+
+        const rowPhotos = photos.slice(i, j);
+        const rowRatios = ratios.slice(i, j);
+        const totalRatio = rowRatios.reduce((a, b) => a + b, 0);
+        const rowHeight = (totalWidth - gap * (rowPhotos.length - 1)) / totalRatio;
+
+        const row = document.createElement('div');
+        row.className = 'gallery-row';
+        gallery.appendChild(row);
+
+        rowPhotos.forEach((item, k) => {
+          item.style.width = Math.floor(rowRatios[k] * rowHeight) + 'px';
+          item.style.height = Math.floor(rowHeight) + 'px';
+          row.appendChild(item);
+        });
+
+        i = j;
+      }
+    }
+
+    justify();
+    window.addEventListener('load', justify);
+    window.addEventListener('resize', justify);
+
+    /* ── Lightbox ── */
     const lb = document.getElementById('lightbox');
     const lbImg = document.getElementById('lightbox-img');
     let current = 0;
 
-    function open(index) {
+    function getItems() {
+      return Array.from(document.querySelectorAll('.photo-item'));
+    }
+
+    function openLightbox(index) {
       current = index;
-      const item = items[index];
-      lbImg.src = item.querySelector('img').src;
-      lbImg.alt = item.querySelector('img').alt;
+      const img = getItems()[index].querySelector('img');
+      lbImg.src = img.src;
+      lbImg.alt = img.alt;
       lb.classList.add('open');
       document.body.style.overflow = 'hidden';
     }
 
-    function close() {
+    function closeLightbox() {
       lb.classList.remove('open');
       document.body.style.overflow = '';
     }
 
     function navigate(dir) {
+      const items = getItems();
       current = (current + dir + items.length) % items.length;
-      open(current);
+      openLightbox(current);
     }
 
-    items.forEach((item, i) => item.addEventListener('click', () => open(i)));
-    document.getElementById('lightbox-close').addEventListener('click', close);
+    document.getElementById('gallery').addEventListener('click', e => {
+      const item = e.target.closest('.photo-item');
+      if (!item) return;
+      openLightbox(getItems().indexOf(item));
+    });
+
+    document.getElementById('lightbox-close').addEventListener('click', closeLightbox);
     document.getElementById('prev-btn').addEventListener('click', () => navigate(-1));
     document.getElementById('next-btn').addEventListener('click', () => navigate(1));
-
-    lb.addEventListener('click', e => { if (e.target === lb) close(); });
+    lb.addEventListener('click', e => { if (e.target === lb) closeLightbox(); });
 
     document.addEventListener('keydown', e => {
       if (!lb.classList.contains('open')) return;
-      if (e.key === 'Escape') close();
+      if (e.key === 'Escape') closeLightbox();
       if (e.key === 'ArrowLeft') navigate(-1);
       if (e.key === 'ArrowRight') navigate(1);
     });
