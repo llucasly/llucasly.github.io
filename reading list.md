@@ -11,6 +11,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 ### 2026
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), by Yuval Noah Harari
 2. [The Dawn of Everything](https://www.goodreads.com/book/show/57001992), by David Graeber & David Wengrow
+3. [Tribe: On Homecoming and Belonging](https://www.goodreads.com/en/book/show/40940205-tribe), by Sebastian Junger
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
