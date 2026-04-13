@@ -13,6 +13,7 @@ Films I especially loved are marked with an astrisk (*).
 3. [Aftersun](https://letterboxd.com/film/aftersun/) (2022), by Charlotte Wells
 4. [Columbus](https://letterboxd.com/film/columbus-2017/) (2017), by Kogonada
 5. [To All the Boys I've Loved Before](https://letterboxd.com/film/to-all-the-boys-ive-loved-before/) (2018), by Susan Johnson
+6. [Soul](https://letterboxd.com/film/soul-2020/) (2020), by Pete Docter*
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
