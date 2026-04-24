@@ -13,6 +13,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 2. [The Dawn of Everything](https://www.goodreads.com/book/show/57001992), by David Graeber & David Wengrow
 3. [Tribe: On Homecoming and Belonging](https://www.goodreads.com/en/book/show/40940205-tribe), by Sebastian Junger
 4. [Lizard](https://www.goodreads.com/book/show/50148.Lizard), by Banana Yoshimoto
+5. [Origin Story: A Big History of Everything](https://www.goodreads.com/book/show/36204285-origin-story), by David Christian*
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
