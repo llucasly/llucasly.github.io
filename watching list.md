@@ -15,6 +15,7 @@ Films I especially loved are marked with an astrisk (*).
 5. [To All the Boys I've Loved Before](https://letterboxd.com/film/to-all-the-boys-ive-loved-before/) (2018), by Susan Johnson
 6. [Soul](https://letterboxd.com/film/soul-2020/) (2020), by Pete Docter*
 7. [Lost and Found](https://letterboxd.com/film/lost-and-found-1996/) (1996), by Lee Chi-Ngai
+8. [Past Lives](https://letterboxd.com/film/past-lives/) (2023), by Celine Song*
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
