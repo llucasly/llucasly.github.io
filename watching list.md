@@ -17,6 +17,7 @@ Films I especially loved are marked with an astrisk (*).
 7. [Lost and Found](https://letterboxd.com/film/lost-and-found-1996/) (1996), by Lee Chi-Ngai
 8. [Past Lives](https://letterboxd.com/film/past-lives/) (2023), by Celine Song*
 9. [Coco](https://letterboxd.com/film/coco-2017/) (2017), by Lee Unkrich
+10. [His Motorbike, Her Island](https://letterboxd.com/film/his-motorbike-her-island/) (1986), by Nobuhiko Obayashi
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
