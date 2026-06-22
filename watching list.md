@@ -18,6 +18,8 @@ Films I especially loved are marked with an astrisk (*).
 8. [Past Lives](https://letterboxd.com/film/past-lives/) (2023), by Celine Song*
 9. [Coco](https://letterboxd.com/film/coco-2017/) (2017), by Lee Unkrich
 10. [His Motorbike, Her Island](https://letterboxd.com/film/his-motorbike-her-island/) (1986), by Nobuhiko Obayashi
+11. [The Drama](https://letterboxd.com/film/the-drama/) (2026), by Kristoffer Borgli
+12. [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/), by Phil Lord and Christopher Miller
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
