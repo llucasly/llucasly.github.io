@@ -19,7 +19,8 @@ Films I especially loved are marked with an astrisk (*).
 9. [Coco](https://letterboxd.com/film/coco-2017/) (2017), by Lee Unkrich
 10. [His Motorbike, Her Island](https://letterboxd.com/film/his-motorbike-her-island/) (1986), by Nobuhiko Obayashi
 11. [The Drama](https://letterboxd.com/film/the-drama/) (2026), by Kristoffer Borgli
-12. [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/), by Phil Lord and Christopher Miller
+12. [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/) (2026), by Phil Lord and Christopher Miller
+13. [Troy](https://letterboxd.com/film/troy/) (2004), by Wolfgang Petersen*
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
