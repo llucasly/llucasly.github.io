@@ -21,6 +21,7 @@ Films I especially loved are marked with an astrisk (*).
 11. [The Drama](https://letterboxd.com/film/the-drama/) (2026), by Kristoffer Borgli
 12. [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/) (2026), by Phil Lord and Christopher Miller
 13. [Troy](https://letterboxd.com/film/troy/) (2004), by Wolfgang Petersen*
+14. [The Odyssey](https://letterboxd.com/film/the-odyssey-2026/) (2026), by Christopher Nolan*
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
