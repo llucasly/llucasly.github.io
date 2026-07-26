@@ -22,6 +22,7 @@ Films I especially loved are marked with an astrisk (*).
 12. [Project Hail Mary](https://letterboxd.com/film/project-hail-mary/) (2026), by Phil Lord and Christopher Miller
 13. [Troy](https://letterboxd.com/film/troy/) (2004), by Wolfgang Petersen*
 14. [The Odyssey](https://letterboxd.com/film/the-odyssey-2026/) (2026), by Christopher Nolan*
+15. [Inception](https://letterboxd.com/film/inception/) (2010), by Christopher Nolan
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
