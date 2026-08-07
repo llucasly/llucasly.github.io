@@ -15,6 +15,8 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 4. [Lizard](https://www.goodreads.com/book/show/50148.Lizard), by Banana Yoshimoto
 5. [Origin Story: A Big History of Everything](https://www.goodreads.com/book/show/36204285-origin-story), by David Christian*
 6. [The Mushroom at the End of the World](https://www.goodreads.com/en/book/show/25510906-the-mushroom-at-the-end-of-the-world), by Anna Tsing
+7. [The Wind-Up Bird Chronicle](https://www.goodreads.com/book/show/139452189-the-wind-up-bird-chronicle), by Haruki Murakami*
+8. [Animal Farm](https://www.goodreads.com/en/book/show/170448.Animal_Farm), by George Orwell*
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
