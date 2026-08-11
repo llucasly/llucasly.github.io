@@ -24,6 +24,7 @@ Films I especially loved are marked with an astrisk (*).
 14. [The Odyssey](https://letterboxd.com/film/the-odyssey-2026/) (2026), by Christopher Nolan*
 15. [Inception](https://letterboxd.com/film/inception/) (2010), by Christopher Nolan
 16. [Obsession](https://letterboxd.com/film/obsession-2025/) (2025), by Curry Barker*
+17. [Perfect Days](https://letterboxd.com/film/perfect-days-2023/) (2023), by Wim Wenders
 
 ### 2025
 1. [Gladiator](https://letterboxd.com/film/gladiator-2000/) (2000), by Ridley Scott*
