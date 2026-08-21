@@ -18,6 +18,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 7. [The Wind-Up Bird Chronicle](https://www.goodreads.com/book/show/139452189-the-wind-up-bird-chronicle), by Haruki Murakami*
 8. [Animal Farm](https://www.goodreads.com/en/book/show/170448.Animal_Farm), by George Orwell*
 9. [Ways of Seeing](https://www.goodreads.com/en/book/show/2784.Ways_of_Seeing), by John Berger
+10. [Siddhartha](https://www.goodreads.com/en/book/show/52036.Siddhartha), by Hermann Hesse
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
