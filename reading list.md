@@ -19,6 +19,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 8. [Animal Farm](https://www.goodreads.com/en/book/show/170448.Animal_Farm), by George Orwell*
 9. [Ways of Seeing](https://www.goodreads.com/en/book/show/2784.Ways_of_Seeing), by John Berger
 10. [Siddhartha](https://www.goodreads.com/en/book/show/52036.Siddhartha), by Hermann Hesse
+11. [Giovanni’s Room](https://www.goodreads.com/book/show/38462.Giovanni_s_Room), by James Baldwin
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
