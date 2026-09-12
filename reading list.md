@@ -20,6 +20,7 @@ The goal is to read 52 books each year. Books I especially loved are marked with
 9. [Ways of Seeing](https://www.goodreads.com/en/book/show/2784.Ways_of_Seeing), by John Berger
 10. [Siddhartha](https://www.goodreads.com/en/book/show/52036.Siddhartha), by Hermann Hesse
 11. [Giovanni’s Room](https://www.goodreads.com/book/show/38462.Giovanni_s_Room), by James Baldwin
+12. [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running), by Haruki Murakami*
 
 ### 2025 
 1. [The Brothers Karamazov](https://www.goodreads.com/book/show/1965594.The_Karamazov_Brothers), by Fyodor Dostoevsky*
